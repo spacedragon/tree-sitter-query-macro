@@ -1,4 +1,4 @@
-## Do tree-sitter query directly by rust macro (WIP)
+##  [Tree-sitterquery](https://tree-sitter.github.io/tree-sitter/using-parsers#pattern-matching-with-queries) by rust macro (WIP)
 
 ## Example
 ```rust
