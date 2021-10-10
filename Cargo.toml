@@ -1,0 +1,13 @@
+[package]
+name = "tree-sitter-query-macro"
+version = "0.1.0"
+edition = "2018"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+tree-sitter="0.19.0"
+syn = "1.0.80"
+quote = "1.0.10"
+proc-macro2 = "1.0"
