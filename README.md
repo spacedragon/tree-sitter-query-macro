@@ -1,6 +1,6 @@
-##Do tree-sitter query directly by rust macro (WIP)
+## Do tree-sitter query directly by rust macro (WIP)
 
-##Example
+## Example
 ```rust
 #[derive(Debug)]
 struct Cons {
